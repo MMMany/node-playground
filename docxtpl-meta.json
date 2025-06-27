@@ -1,0 +1,26 @@
+{
+  "table_a": {
+    "merged_cols": [1],
+    "type_a": [
+      { "name": "james", "cost": 1, "category": "T1" },
+      { "name": "peter", "cost": 2, "category": "T1" },
+      { "name": "john", "cost": 3, "category": "T2" }
+    ],
+    "type_b": [
+      { "name": "cole", "cost": 10, "category": "T1" },
+      { "name": "jack", "cost": 100, "category": "T2" }
+    ]
+  },
+  "table_b": {
+    "merged_cols": [0, 1, 3],
+    "items": [
+      { "name": "james", "cost": 1, "category": "T1", "type": "A" },
+      { "name": "peter", "cost": 2, "category": "T1", "type": "A" },
+      { "name": "john", "cost": 3, "category": "T2", "type": "A" },
+      { "name": "cole", "cost": 10, "category": "T1", "type": "B" },
+      { "name": "jack", "cost": 100, "category": "T2", "type": "B" }
+    ]
+  },
+  "pgs": ["안녕하세요.", "이것은 문장 테스트입니다.", "반갑습니다."],
+  "rts": ["안녕하세요.\n", "이것은 문장 테스트입니다.\n", "반갑습니다."]
+}
