@@ -2,7 +2,7 @@
 
 ## Goals
 
-- make `diffAndExtract()` utility method
+- make `diffAndExtract()` utility method in `src/json-handling.js`
 
 ## Sample assets
 
