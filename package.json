@@ -13,6 +13,7 @@
     "angular-expressions": "^1.4.3",
     "carbone": "^3.5.6",
     "docxtemplater": "^3.65.1",
+    "lodash": "^4.17.21",
     "pizzip": "^3.2.0"
   }
 }

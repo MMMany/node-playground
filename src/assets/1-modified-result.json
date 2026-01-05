@@ -55,22 +55,6 @@
           "desc": "Lvl 3-2",
           "children": [
             {
-              "title": "L4-1",
-              "desc": "Lvl 4-1",
-              "children": [
-                {
-                  "title": "L5-1",
-                  "desc": "Lvl 5-1",
-                  "val": ["a", "p", "p", "l", "e"]
-                },
-                {
-                  "title": "L5-2",
-                  "desc": "Lvl 5-2",
-                  "val": ["b", "a", "n", "a", "n", "a"]
-                }
-              ]
-            },
-            {
               "title": "L4-2",
               "desc": "Lvl 4-2",
               "children": [
